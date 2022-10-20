@@ -1,1 +1,1 @@
-FROM christinadarawshe/platform:1.0.0
+FROM christinadarawshe/platform:latest
